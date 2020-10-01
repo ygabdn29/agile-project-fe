@@ -4,10 +4,10 @@ Untuk project Agile Software Development saya bersama kelompok sepakat untuk mem
 
 ### Homepage
 
-Terdapat 2 versi Halaman Homepage yang saya buat. Yang pertama adalah Homepage ketika user baru pertama kali membuka website dan belum memiliki akun atau biasa disebut guest. Yang kedua adalah ketika user sudah memiliki akun. Perbedaan diantara keduanya terletak pada content yang ditampilkan. 
+Terdapat 2 versi Halaman Homepage yang saya buat. Yang pertama adalah Homepage ketika user baru pertama kali membuka website dan belum memiliki akun atau biasa disebut guest. Yang kedua adalah ketika user sudah memiliki akun. Terdapat beberapa perbedaan diantara keduanya.
 1. Homepage untuk user tanpa memiliki akun
 
-   testing
+   Di dalam halaman ini Nav-bar akan menampilkan Nama Perusahaan, sebuah button untuk login dan sebuah button "About Us". Button untuk login nantinya jika di klik akan membawa user
    
 
   
