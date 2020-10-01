@@ -4,7 +4,10 @@ Untuk project Agile Software Development saya bersama kelompok sepakat untuk mem
 
 ### Homepage
 
-Terdapat 2 versi Halaman Homepage yang saya buat. Yang pertama adalah Homepage ketika user baru pertama kali membuka website dan belum memiliki akun. Yang kedua adalah ketika user sudah memiliki akun. 
+Terdapat 2 versi Halaman Homepage yang saya buat. Yang pertama adalah Homepage ketika user baru pertama kali membuka website dan belum memiliki akun atau biasa disebut guest. Yang kedua adalah ketika user sudah memiliki akun. Perbedaan diantara keduanya terletak pada content yang ditampilkan. 
+- Homepage untuk user tanpa memiliki akun
+  testing
+
 
 Lalu untuk halaman Loan Management terdapat tabel yang berisi detail peminjaman buku yang sedang berjalan. 
 
